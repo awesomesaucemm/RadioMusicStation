@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title> NYT</title>
+  <link href="style.css" type="text/css" rel="stylesheet">
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.png"/>
+</head>
+
+</header>
+<body>
+  <div id="main">
+<section>
+  <img src="favicon.png" class="fl" alt=" logotype ">
+  <h1>Välkommen till min websida</h1>
+  <hr>
+  <br style="clear:both">
+  <h2>Anledningar till att bo i sverige!</h2>
+  <img src="internet.jpg" class="fl" alt="internetbild">
+  <h2>
+    <strong>5.</strong>Snabb och billig internet</h2>
+    <h2>Sverige är nummer 4 i dom snabbaste internetet i världen och det är överkomligt.Sverige har också en bra mobil internet och det vissar att sverige är framåt med teknologien
+  </h2>
+  <h2><strong>4.</strong>Sommar
+
+    <h2> I sverige så är alla delar kalla varje säsong förutom malmö som blir rätt så varm i sommaren. </h2>
+  <h2><strong>3.</strong>Sjukvård och högtider!<h2>
+<h2> Sverige har dom bästa fördelar
+  .Om du planerar att ha barn här, så är det bra för att föräldrarna här får 480 dagar betald föräldraledighet.
+</h2>
+<h2><strong>2.kollektivtrafik.</strong></h2>
+<h2> kollektivtrafik i sverige är så bra och spridad att du behöver inte äga en bil.Dom är 24/7 också </h2>
+<h2><strong>1.</strong> Gratis Utbildning<h2>
+  <h2> I sverige så är det gratis att gå till skolor och universiteter.Om du är utanför EU, det kommer kosta och du behöver betala avgifter så kolla innan du planerar att flytta här.</h2>
+
+  <br style="clear:both">
+
+  <img src="sverige_högtid.jpg" class="fl" alt="sverige högtid bild">
+  <br style="clear:both">
+  <img src="malmöbuss.jpg" width="500" height="300" class="fl" alt="buss i malmö">
+  <br style="clear:both">
+
+</div>
+</body>
+</section>
+
+<footer>
+  <p>&copy 2019 - Alla Upphovsrätter Reserverade</p>
+</footer>
