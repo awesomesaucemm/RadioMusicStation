@@ -1,2 +1,2 @@
-# http://RockMusicStation.github.io
+# http://RadioMusicStation.github.io
  Your best source of rock music.
